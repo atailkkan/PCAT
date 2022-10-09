@@ -1,1 +1,1 @@
-"PCAT" 
+PCAT Photo Gallery Project
